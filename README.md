@@ -1,1 +1,1 @@
-Salah satu soal problem solving dalam bahasa C
+This project is the part of Algorithm and Programming course Assignment project
